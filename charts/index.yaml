@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2025-07-04T18:34:42.587154+02:00"
+entries:
+  namespaced-system:
+  - apiVersion: v2
+    created: "2025-07-04T18:42:45.190916+02:00"
+    description: Generic chart to deploy namespaces
+    digest: 51bb70ff6a45a15cbc0fd96ec6c372be82c3f9134cbbab25f43ec06ebb4b65a9
+    name: namespaced-system
+    type: application
+    urls:
+    - namespaced-system-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-04T18:42:45.19076+02:00"
